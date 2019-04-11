@@ -1,0 +1,934 @@
+Failed to open connection to "session" message bus: /usr/bin/dbus-launch terminated abnormally without any error message
+1547177508218	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.4SNVf63yNXhS"
+Failed to open connection to "session" message bus: /usr/bin/dbus-launch terminated abnormally without any error message
+Running without a11y support!
+1547177508401	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1547177508495	addons.xpi-utils	WARN	addMetadata: Add-on aushelper@mozilla.org is invalid: [Exception... "Component returned failure code: 0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST) [nsIFile.isFile]"  nsresult: "0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST)"  location: "JS frame :: resource://gre/modules/addons/XPIInstall.jsm :: loadManifestFromFile :: line 925"  data: no] Stack trace: loadManifestFromFile()@resource://gre/modules/addons/XPIInstall.jsm:925
+syncLoadManifestFromFile()@resource://gre/modules/addons/XPIProvider.jsm:940
+addMetadata()@resource://gre/modules/addons/XPIProvider.jsm -> resource://gre/modules/addons/XPIProviderUtils.js:1167
+processFileChanges()@resource://gre/modules/addons/XPIProvider.jsm -> resource://gre/modules/addons/XPIProviderUtils.js:1523
+checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3304
+startup()@resource://gre/modules/addons/XPIProvider.jsm:2196
+callProvider()@resource://gre/modules/AddonManager.jsm:253
+_startProvider()@resource://gre/modules/AddonManager.jsm:728
+startup()@resource://gre/modules/AddonManager.jsm:892
+startup()@resource://gre/modules/AddonManager.jsm:2976
+observe()@jar:file:///usr/lib64/firefox/omni.ja!/components/addonManager.js:63
+1547177508496	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1547177509445	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1547177509581	Marionette	INFO	Listening on port 36717
+1547177509630	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Failed to open connection to "session" message bus: /usr/bin/dbus-launch terminated abnormally without any error message
+1547179591128	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ItfKXOEsuER0"
+Failed to open connection to "session" message bus: /usr/bin/dbus-launch terminated abnormally without any error message
+Running without a11y support!
+1547179591307	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1547179591401	addons.xpi-utils	WARN	addMetadata: Add-on aushelper@mozilla.org is invalid: [Exception... "Component returned failure code: 0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST) [nsIFile.isFile]"  nsresult: "0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST)"  location: "JS frame :: resource://gre/modules/addons/XPIInstall.jsm :: loadManifestFromFile :: line 925"  data: no] Stack trace: loadManifestFromFile()@resource://gre/modules/addons/XPIInstall.jsm:925
+syncLoadManifestFromFile()@resource://gre/modules/addons/XPIProvider.jsm:940
+addMetadata()@resource://gre/modules/addons/XPIProvider.jsm -> resource://gre/modules/addons/XPIProviderUtils.js:1167
+processFileChanges()@resource://gre/modules/addons/XPIProvider.jsm -> resource://gre/modules/addons/XPIProviderUtils.js:1523
+checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3304
+startup()@resource://gre/modules/addons/XPIProvider.jsm:2196
+callProvider()@resource://gre/modules/AddonManager.jsm:253
+_startProvider()@resource://gre/modules/AddonManager.jsm:728
+startup()@resource://gre/modules/AddonManager.jsm:892
+startup()@resource://gre/modules/AddonManager.jsm:2976
+observe()@jar:file:///usr/lib64/firefox/omni.ja!/components/addonManager.js:63
+1547179591402	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1547179592362	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1547179592498	Marionette	INFO	Listening on port 45530
+1547179592536	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib64/firefox/firefox:14380): Gtk-WARNING **: 12:06:33.350: Could not load a pixbuf from /org/gtk/libgtk/theme/Adwaita/assets/check-symbolic.svg.
+This may indicate that pixbuf loaders or the mime database could not be found.
+JavaScript warning: https://ty.captcha.qq.com/code?siteKey=9WY11WYltbEgYnEIaMhTrkSZqlAPCJzjEbBTyP1cLVkMJWWSB7rQrimq%2F0arQ5A0&Action=GetWebJs, line 1: Error: WebGL warning: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ty.captcha.qq.com/code?siteKey=9WY11WYltbEgYnEIaMhTrkSZqlAPCJzjEbBTyP1cLVkMJWWSB7rQrimq%2F0arQ5A0&Action=GetWebJs, line 1: Error: WebGL warning: Refused to create native OpenGL context because of blacklist entry: 
+JavaScript warning: https://ty.captcha.qq.com/code?siteKey=9WY11WYltbEgYnEIaMhTrkSZqlAPCJzjEbBTyP1cLVkMJWWSB7rQrimq%2F0arQ5A0&Action=GetWebJs, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Refused to create native OpenGL context because of blacklist entry: 
+* Exhausted GL driver options.
+JavaScript warning: https://ty.captcha.qq.com/code?siteKey=9WY11WYltbEgYnEIaMhTrkSZqlAPCJzjEbBTyP1cLVkMJWWSB7rQrimq%2F0arQ5A0&Action=GetWebJs, line 1: Error: WebGL warning: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ty.captcha.qq.com/code?siteKey=9WY11WYltbEgYnEIaMhTrkSZqlAPCJzjEbBTyP1cLVkMJWWSB7rQrimq%2F0arQ5A0&Action=GetWebJs, line 1: Error: WebGL warning: Refused to create native OpenGL context because of blacklist entry: 
+JavaScript warning: https://ty.captcha.qq.com/code?siteKey=9WY11WYltbEgYnEIaMhTrkSZqlAPCJzjEbBTyP1cLVkMJWWSB7rQrimq%2F0arQ5A0&Action=GetWebJs, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Refused to create native OpenGL context because of blacklist entry: 
+* Exhausted GL driver options.
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Failed to open connection to "session" message bus: /usr/bin/dbus-launch terminated abnormally without any error message
+1547179845417	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.JvgiH1RdfTsS"
+Failed to open connection to "session" message bus: /usr/bin/dbus-launch terminated abnormally without any error message
+Running without a11y support!
+1547179845602	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1547179845698	addons.xpi-utils	WARN	addMetadata: Add-on aushelper@mozilla.org is invalid: [Exception... "Component returned failure code: 0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST) [nsIFile.isFile]"  nsresult: "0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST)"  location: "JS frame :: resource://gre/modules/addons/XPIInstall.jsm :: loadManifestFromFile :: line 925"  data: no] Stack trace: loadManifestFromFile()@resource://gre/modules/addons/XPIInstall.jsm:925
+syncLoadManifestFromFile()@resource://gre/modules/addons/XPIProvider.jsm:940
+addMetadata()@resource://gre/modules/addons/XPIProvider.jsm -> resource://gre/modules/addons/XPIProviderUtils.js:1167
+processFileChanges()@resource://gre/modules/addons/XPIProvider.jsm -> resource://gre/modules/addons/XPIProviderUtils.js:1523
+checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3304
+startup()@resource://gre/modules/addons/XPIProvider.jsm:2196
+callProvider()@resource://gre/modules/AddonManager.jsm:253
+_startProvider()@resource://gre/modules/AddonManager.jsm:728
+startup()@resource://gre/modules/AddonManager.jsm:892
+startup()@resource://gre/modules/AddonManager.jsm:2976
+observe()@jar:file:///usr/lib64/firefox/omni.ja!/components/addonManager.js:63
+1547179845699	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1547179846660	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1547179846801	Marionette	INFO	Listening on port 40005
+1547179846838	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib64/firefox/firefox:14576): Gtk-WARNING **: 12:10:47.733: Could not load a pixbuf from /org/gtk/libgtk/theme/Adwaita/assets/check-symbolic.svg.
+This may indicate that pixbuf loaders or the mime database could not be found.
+JavaScript warning: https://ty.captcha.qq.com/code?siteKey=9WY11WYltbEgYnEIaMhTrkSZqlAPCJzjEbBTyP1cLVkMJWWSB7rQrimq%2F0arQ5A0&Action=GetWebJs, line 1: Error: WebGL warning: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ty.captcha.qq.com/code?siteKey=9WY11WYltbEgYnEIaMhTrkSZqlAPCJzjEbBTyP1cLVkMJWWSB7rQrimq%2F0arQ5A0&Action=GetWebJs, line 1: Error: WebGL warning: Refused to create native OpenGL context because of blacklist entry: 
+JavaScript warning: https://ty.captcha.qq.com/code?siteKey=9WY11WYltbEgYnEIaMhTrkSZqlAPCJzjEbBTyP1cLVkMJWWSB7rQrimq%2F0arQ5A0&Action=GetWebJs, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Refused to create native OpenGL context because of blacklist entry: 
+* Exhausted GL driver options.
+JavaScript warning: https://ty.captcha.qq.com/code?siteKey=9WY11WYltbEgYnEIaMhTrkSZqlAPCJzjEbBTyP1cLVkMJWWSB7rQrimq%2F0arQ5A0&Action=GetWebJs, line 1: Error: WebGL warning: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ty.captcha.qq.com/code?siteKey=9WY11WYltbEgYnEIaMhTrkSZqlAPCJzjEbBTyP1cLVkMJWWSB7rQrimq%2F0arQ5A0&Action=GetWebJs, line 1: Error: WebGL warning: Refused to create native OpenGL context because of blacklist entry: 
+JavaScript warning: https://ty.captcha.qq.com/code?siteKey=9WY11WYltbEgYnEIaMhTrkSZqlAPCJzjEbBTyP1cLVkMJWWSB7rQrimq%2F0arQ5A0&Action=GetWebJs, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Refused to create native OpenGL context because of blacklist entry: 
+* Exhausted GL driver options.
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Failed to open connection to "session" message bus: /usr/bin/dbus-launch terminated abnormally without any error message
+1547179973513	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.di0dNwx5fHzI"
+Failed to open connection to "session" message bus: /usr/bin/dbus-launch terminated abnormally without any error message
+Running without a11y support!
+1547179973694	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1547179973789	addons.xpi-utils	WARN	addMetadata: Add-on aushelper@mozilla.org is invalid: [Exception... "Component returned failure code: 0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST) [nsIFile.isFile]"  nsresult: "0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST)"  location: "JS frame :: resource://gre/modules/addons/XPIInstall.jsm :: loadManifestFromFile :: line 925"  data: no] Stack trace: loadManifestFromFile()@resource://gre/modules/addons/XPIInstall.jsm:925
+syncLoadManifestFromFile()@resource://gre/modules/addons/XPIProvider.jsm:940
+addMetadata()@resource://gre/modules/addons/XPIProvider.jsm -> resource://gre/modules/addons/XPIProviderUtils.js:1167
+processFileChanges()@resource://gre/modules/addons/XPIProvider.jsm -> resource://gre/modules/addons/XPIProviderUtils.js:1523
+checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3304
+startup()@resource://gre/modules/addons/XPIProvider.jsm:2196
+callProvider()@resource://gre/modules/AddonManager.jsm:253
+_startProvider()@resource://gre/modules/AddonManager.jsm:728
+startup()@resource://gre/modules/AddonManager.jsm:892
+startup()@resource://gre/modules/AddonManager.jsm:2976
+observe()@jar:file:///usr/lib64/firefox/omni.ja!/components/addonManager.js:63
+1547179973790	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1547179974753	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1547179974887	Marionette	INFO	Listening on port 37521
+1547179974920	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib64/firefox/firefox:14744): Gtk-WARNING **: 12:12:55.775: Could not load a pixbuf from /org/gtk/libgtk/theme/Adwaita/assets/check-symbolic.svg.
+This may indicate that pixbuf loaders or the mime database could not be found.
+JavaScript warning: https://ty.captcha.qq.com/code?siteKey=9WY11WYltbEgYnEIaMhTrkSZqlAPCJzjEbBTyP1cLVkMJWWSB7rQrimq%2F0arQ5A0&Action=GetWebJs, line 1: Error: WebGL warning: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ty.captcha.qq.com/code?siteKey=9WY11WYltbEgYnEIaMhTrkSZqlAPCJzjEbBTyP1cLVkMJWWSB7rQrimq%2F0arQ5A0&Action=GetWebJs, line 1: Error: WebGL warning: Refused to create native OpenGL context because of blacklist entry: 
+JavaScript warning: https://ty.captcha.qq.com/code?siteKey=9WY11WYltbEgYnEIaMhTrkSZqlAPCJzjEbBTyP1cLVkMJWWSB7rQrimq%2F0arQ5A0&Action=GetWebJs, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Refused to create native OpenGL context because of blacklist entry: 
+* Exhausted GL driver options.
+JavaScript warning: https://ty.captcha.qq.com/code?siteKey=9WY11WYltbEgYnEIaMhTrkSZqlAPCJzjEbBTyP1cLVkMJWWSB7rQrimq%2F0arQ5A0&Action=GetWebJs, line 1: Error: WebGL warning: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ty.captcha.qq.com/code?siteKey=9WY11WYltbEgYnEIaMhTrkSZqlAPCJzjEbBTyP1cLVkMJWWSB7rQrimq%2F0arQ5A0&Action=GetWebJs, line 1: Error: WebGL warning: Refused to create native OpenGL context because of blacklist entry: 
+JavaScript warning: https://ty.captcha.qq.com/code?siteKey=9WY11WYltbEgYnEIaMhTrkSZqlAPCJzjEbBTyP1cLVkMJWWSB7rQrimq%2F0arQ5A0&Action=GetWebJs, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Refused to create native OpenGL context because of blacklist entry: 
+* Exhausted GL driver options.
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Failed to open connection to "session" message bus: /usr/bin/dbus-launch terminated abnormally without any error message
+1547199196747	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.QzkX3VnfjlWo"
+Failed to open connection to "session" message bus: /usr/bin/dbus-launch terminated abnormally without any error message
+Running without a11y support!
+1547199196972	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1547199197068	addons.xpi-utils	WARN	addMetadata: Add-on aushelper@mozilla.org is invalid: [Exception... "Component returned failure code: 0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST) [nsIFile.isFile]"  nsresult: "0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST)"  location: "JS frame :: resource://gre/modules/addons/XPIInstall.jsm :: loadManifestFromFile :: line 925"  data: no] Stack trace: loadManifestFromFile()@resource://gre/modules/addons/XPIInstall.jsm:925
+syncLoadManifestFromFile()@resource://gre/modules/addons/XPIProvider.jsm:940
+addMetadata()@resource://gre/modules/addons/XPIProvider.jsm -> resource://gre/modules/addons/XPIProviderUtils.js:1167
+processFileChanges()@resource://gre/modules/addons/XPIProvider.jsm -> resource://gre/modules/addons/XPIProviderUtils.js:1523
+checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3304
+startup()@resource://gre/modules/addons/XPIProvider.jsm:2196
+callProvider()@resource://gre/modules/AddonManager.jsm:253
+_startProvider()@resource://gre/modules/AddonManager.jsm:728
+startup()@resource://gre/modules/AddonManager.jsm:892
+startup()@resource://gre/modules/AddonManager.jsm:2976
+observe()@jar:file:///usr/lib64/firefox/omni.ja!/components/addonManager.js:63
+1547199197069	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1547199198027	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1547199198165	Marionette	INFO	Listening on port 33075
+1547199198253	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib64/firefox/firefox:18728): Gtk-WARNING **: 17:33:19.632: Could not load a pixbuf from /org/gtk/libgtk/theme/Adwaita/assets/check-symbolic.svg.
+This may indicate that pixbuf loaders or the mime database could not be found.
+JavaScript warning: https://ty.captcha.qq.com/code?siteKey=9WY11WYltbEgYnEIaMhTrkSZqlAPCJzjEbBTyP1cLVkMJWWSB7rQrimq%2F0arQ5A0&Action=GetWebJs, line 1: Error: WebGL warning: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ty.captcha.qq.com/code?siteKey=9WY11WYltbEgYnEIaMhTrkSZqlAPCJzjEbBTyP1cLVkMJWWSB7rQrimq%2F0arQ5A0&Action=GetWebJs, line 1: Error: WebGL warning: Refused to create native OpenGL context because of blacklist entry: 
+JavaScript warning: https://ty.captcha.qq.com/code?siteKey=9WY11WYltbEgYnEIaMhTrkSZqlAPCJzjEbBTyP1cLVkMJWWSB7rQrimq%2F0arQ5A0&Action=GetWebJs, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Refused to create native OpenGL context because of blacklist entry: 
+* Exhausted GL driver options.
+JavaScript warning: https://ty.captcha.qq.com/code?siteKey=9WY11WYltbEgYnEIaMhTrkSZqlAPCJzjEbBTyP1cLVkMJWWSB7rQrimq%2F0arQ5A0&Action=GetWebJs, line 1: Error: WebGL warning: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ty.captcha.qq.com/code?siteKey=9WY11WYltbEgYnEIaMhTrkSZqlAPCJzjEbBTyP1cLVkMJWWSB7rQrimq%2F0arQ5A0&Action=GetWebJs, line 1: Error: WebGL warning: Refused to create native OpenGL context because of blacklist entry: 
+JavaScript warning: https://ty.captcha.qq.com/code?siteKey=9WY11WYltbEgYnEIaMhTrkSZqlAPCJzjEbBTyP1cLVkMJWWSB7rQrimq%2F0arQ5A0&Action=GetWebJs, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Refused to create native OpenGL context because of blacklist entry: 
+* Exhausted GL driver options.
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Failed to open connection to "session" message bus: /usr/bin/dbus-launch terminated abnormally without any error message
+1547199794896	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.gZzoAsN94ezi"
+Failed to open connection to "session" message bus: /usr/bin/dbus-launch terminated abnormally without any error message
+Running without a11y support!
+1547199795089	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1547199795200	addons.xpi-utils	WARN	addMetadata: Add-on aushelper@mozilla.org is invalid: [Exception... "Component returned failure code: 0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST) [nsIFile.isFile]"  nsresult: "0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST)"  location: "JS frame :: resource://gre/modules/addons/XPIInstall.jsm :: loadManifestFromFile :: line 925"  data: no] Stack trace: loadManifestFromFile()@resource://gre/modules/addons/XPIInstall.jsm:925
+syncLoadManifestFromFile()@resource://gre/modules/addons/XPIProvider.jsm:940
+addMetadata()@resource://gre/modules/addons/XPIProvider.jsm -> resource://gre/modules/addons/XPIProviderUtils.js:1167
+processFileChanges()@resource://gre/modules/addons/XPIProvider.jsm -> resource://gre/modules/addons/XPIProviderUtils.js:1523
+checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3304
+startup()@resource://gre/modules/addons/XPIProvider.jsm:2196
+callProvider()@resource://gre/modules/AddonManager.jsm:253
+_startProvider()@resource://gre/modules/AddonManager.jsm:728
+startup()@resource://gre/modules/AddonManager.jsm:892
+startup()@resource://gre/modules/AddonManager.jsm:2976
+observe()@jar:file:///usr/lib64/firefox/omni.ja!/components/addonManager.js:63
+1547199795201	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1547199796354	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1547199796534	Marionette	INFO	Listening on port 38759
+1547199796614	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib64/firefox/firefox:19251): Gtk-WARNING **: 17:43:18.039: Could not load a pixbuf from /org/gtk/libgtk/theme/Adwaita/assets/check-symbolic.svg.
+This may indicate that pixbuf loaders or the mime database could not be found.
+JavaScript warning: https://ty.captcha.qq.com/code?siteKey=9WY11WYltbEgYnEIaMhTrkSZqlAPCJzjEbBTyP1cLVkMJWWSB7rQrimq%2F0arQ5A0&Action=GetWebJs, line 1: Error: WebGL warning: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ty.captcha.qq.com/code?siteKey=9WY11WYltbEgYnEIaMhTrkSZqlAPCJzjEbBTyP1cLVkMJWWSB7rQrimq%2F0arQ5A0&Action=GetWebJs, line 1: Error: WebGL warning: Refused to create native OpenGL context because of blacklist entry: 
+JavaScript warning: https://ty.captcha.qq.com/code?siteKey=9WY11WYltbEgYnEIaMhTrkSZqlAPCJzjEbBTyP1cLVkMJWWSB7rQrimq%2F0arQ5A0&Action=GetWebJs, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Refused to create native OpenGL context because of blacklist entry: 
+* Exhausted GL driver options.
+JavaScript warning: https://ty.captcha.qq.com/code?siteKey=9WY11WYltbEgYnEIaMhTrkSZqlAPCJzjEbBTyP1cLVkMJWWSB7rQrimq%2F0arQ5A0&Action=GetWebJs, line 1: Error: WebGL warning: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ty.captcha.qq.com/code?siteKey=9WY11WYltbEgYnEIaMhTrkSZqlAPCJzjEbBTyP1cLVkMJWWSB7rQrimq%2F0arQ5A0&Action=GetWebJs, line 1: Error: WebGL warning: Refused to create native OpenGL context because of blacklist entry: 
+JavaScript warning: https://ty.captcha.qq.com/code?siteKey=9WY11WYltbEgYnEIaMhTrkSZqlAPCJzjEbBTyP1cLVkMJWWSB7rQrimq%2F0arQ5A0&Action=GetWebJs, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Refused to create native OpenGL context because of blacklist entry: 
+* Exhausted GL driver options.
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Failed to open connection to "session" message bus: /usr/bin/dbus-launch terminated abnormally without any error message
+1547200671635	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.4CCESkbolTEk"
+Failed to open connection to "session" message bus: /usr/bin/dbus-launch terminated abnormally without any error message
+Running without a11y support!
+1547200671814	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1547200671910	addons.xpi-utils	WARN	addMetadata: Add-on aushelper@mozilla.org is invalid: [Exception... "Component returned failure code: 0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST) [nsIFile.isFile]"  nsresult: "0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST)"  location: "JS frame :: resource://gre/modules/addons/XPIInstall.jsm :: loadManifestFromFile :: line 925"  data: no] Stack trace: loadManifestFromFile()@resource://gre/modules/addons/XPIInstall.jsm:925
+syncLoadManifestFromFile()@resource://gre/modules/addons/XPIProvider.jsm:940
+addMetadata()@resource://gre/modules/addons/XPIProvider.jsm -> resource://gre/modules/addons/XPIProviderUtils.js:1167
+processFileChanges()@resource://gre/modules/addons/XPIProvider.jsm -> resource://gre/modules/addons/XPIProviderUtils.js:1523
+checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3304
+startup()@resource://gre/modules/addons/XPIProvider.jsm:2196
+callProvider()@resource://gre/modules/AddonManager.jsm:253
+_startProvider()@resource://gre/modules/AddonManager.jsm:728
+startup()@resource://gre/modules/AddonManager.jsm:892
+startup()@resource://gre/modules/AddonManager.jsm:2976
+observe()@jar:file:///usr/lib64/firefox/omni.ja!/components/addonManager.js:63
+1547200671911	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1547200672867	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1547200673001	Marionette	INFO	Listening on port 35749
+1547200673042	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib64/firefox/firefox:20169): Gtk-WARNING **: 17:57:53.871: Could not load a pixbuf from /org/gtk/libgtk/theme/Adwaita/assets/check-symbolic.svg.
+This may indicate that pixbuf loaders or the mime database could not be found.
+JavaScript warning: https://ty.captcha.qq.com/code?siteKey=9WY11WYltbEgYnEIaMhTrkSZqlAPCJzjEbBTyP1cLVkMJWWSB7rQrimq%2F0arQ5A0&Action=GetWebJs, line 1: Error: WebGL warning: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ty.captcha.qq.com/code?siteKey=9WY11WYltbEgYnEIaMhTrkSZqlAPCJzjEbBTyP1cLVkMJWWSB7rQrimq%2F0arQ5A0&Action=GetWebJs, line 1: Error: WebGL warning: Refused to create native OpenGL context because of blacklist entry: 
+JavaScript warning: https://ty.captcha.qq.com/code?siteKey=9WY11WYltbEgYnEIaMhTrkSZqlAPCJzjEbBTyP1cLVkMJWWSB7rQrimq%2F0arQ5A0&Action=GetWebJs, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Refused to create native OpenGL context because of blacklist entry: 
+* Exhausted GL driver options.
+JavaScript warning: https://ty.captcha.qq.com/code?siteKey=9WY11WYltbEgYnEIaMhTrkSZqlAPCJzjEbBTyP1cLVkMJWWSB7rQrimq%2F0arQ5A0&Action=GetWebJs, line 1: Error: WebGL warning: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ty.captcha.qq.com/code?siteKey=9WY11WYltbEgYnEIaMhTrkSZqlAPCJzjEbBTyP1cLVkMJWWSB7rQrimq%2F0arQ5A0&Action=GetWebJs, line 1: Error: WebGL warning: Refused to create native OpenGL context because of blacklist entry: 
+JavaScript warning: https://ty.captcha.qq.com/code?siteKey=9WY11WYltbEgYnEIaMhTrkSZqlAPCJzjEbBTyP1cLVkMJWWSB7rQrimq%2F0arQ5A0&Action=GetWebJs, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Refused to create native OpenGL context because of blacklist entry: 
+* Exhausted GL driver options.
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Failed to open connection to "session" message bus: /usr/bin/dbus-launch terminated abnormally without any error message
+1547203964290	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.DVDO6fU2xM9O"
+Failed to open connection to "session" message bus: /usr/bin/dbus-launch terminated abnormally without any error message
+Running without a11y support!
+1547203964477	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1547203964571	addons.xpi-utils	WARN	addMetadata: Add-on aushelper@mozilla.org is invalid: [Exception... "Component returned failure code: 0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST) [nsIFile.isFile]"  nsresult: "0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST)"  location: "JS frame :: resource://gre/modules/addons/XPIInstall.jsm :: loadManifestFromFile :: line 925"  data: no] Stack trace: loadManifestFromFile()@resource://gre/modules/addons/XPIInstall.jsm:925
+syncLoadManifestFromFile()@resource://gre/modules/addons/XPIProvider.jsm:940
+addMetadata()@resource://gre/modules/addons/XPIProvider.jsm -> resource://gre/modules/addons/XPIProviderUtils.js:1167
+processFileChanges()@resource://gre/modules/addons/XPIProvider.jsm -> resource://gre/modules/addons/XPIProviderUtils.js:1523
+checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3304
+startup()@resource://gre/modules/addons/XPIProvider.jsm:2196
+callProvider()@resource://gre/modules/AddonManager.jsm:253
+_startProvider()@resource://gre/modules/AddonManager.jsm:728
+startup()@resource://gre/modules/AddonManager.jsm:892
+startup()@resource://gre/modules/AddonManager.jsm:2976
+observe()@jar:file:///usr/lib64/firefox/omni.ja!/components/addonManager.js:63
+1547203964572	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1547203965547	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1547203965687	Marionette	INFO	Listening on port 40095
+1547203965705	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib64/firefox/firefox:21273): Gtk-WARNING **: 18:52:46.654: Could not load a pixbuf from /org/gtk/libgtk/theme/Adwaita/assets/check-symbolic.svg.
+This may indicate that pixbuf loaders or the mime database could not be found.
+JavaScript warning: https://ty.captcha.qq.com/code?siteKey=9WY11WYltbEgYnEIaMhTrkSZqlAPCJzjEbBTyP1cLVkMJWWSB7rQrimq%2F0arQ5A0&Action=GetWebJs, line 1: Error: WebGL warning: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ty.captcha.qq.com/code?siteKey=9WY11WYltbEgYnEIaMhTrkSZqlAPCJzjEbBTyP1cLVkMJWWSB7rQrimq%2F0arQ5A0&Action=GetWebJs, line 1: Error: WebGL warning: Refused to create native OpenGL context because of blacklist entry: 
+JavaScript warning: https://ty.captcha.qq.com/code?siteKey=9WY11WYltbEgYnEIaMhTrkSZqlAPCJzjEbBTyP1cLVkMJWWSB7rQrimq%2F0arQ5A0&Action=GetWebJs, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Refused to create native OpenGL context because of blacklist entry: 
+* Exhausted GL driver options.
+JavaScript warning: https://ty.captcha.qq.com/code?siteKey=9WY11WYltbEgYnEIaMhTrkSZqlAPCJzjEbBTyP1cLVkMJWWSB7rQrimq%2F0arQ5A0&Action=GetWebJs, line 1: Error: WebGL warning: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ty.captcha.qq.com/code?siteKey=9WY11WYltbEgYnEIaMhTrkSZqlAPCJzjEbBTyP1cLVkMJWWSB7rQrimq%2F0arQ5A0&Action=GetWebJs, line 1: Error: WebGL warning: Refused to create native OpenGL context because of blacklist entry: 
+JavaScript warning: https://ty.captcha.qq.com/code?siteKey=9WY11WYltbEgYnEIaMhTrkSZqlAPCJzjEbBTyP1cLVkMJWWSB7rQrimq%2F0arQ5A0&Action=GetWebJs, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Refused to create native OpenGL context because of blacklist entry: 
+* Exhausted GL driver options.
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Failed to open connection to "session" message bus: /usr/bin/dbus-launch terminated abnormally without any error message
+1547435003492	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.4gxQe9cnUyHB"
+Failed to open connection to "session" message bus: /usr/bin/dbus-launch terminated abnormally without any error message
+Running without a11y support!
+1547435003711	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1547435003805	addons.xpi-utils	WARN	addMetadata: Add-on aushelper@mozilla.org is invalid: [Exception... "Component returned failure code: 0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST) [nsIFile.isFile]"  nsresult: "0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST)"  location: "JS frame :: resource://gre/modules/addons/XPIInstall.jsm :: loadManifestFromFile :: line 925"  data: no] Stack trace: loadManifestFromFile()@resource://gre/modules/addons/XPIInstall.jsm:925
+syncLoadManifestFromFile()@resource://gre/modules/addons/XPIProvider.jsm:940
+addMetadata()@resource://gre/modules/addons/XPIProvider.jsm -> resource://gre/modules/addons/XPIProviderUtils.js:1167
+processFileChanges()@resource://gre/modules/addons/XPIProvider.jsm -> resource://gre/modules/addons/XPIProviderUtils.js:1523
+checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3304
+startup()@resource://gre/modules/addons/XPIProvider.jsm:2196
+callProvider()@resource://gre/modules/AddonManager.jsm:253
+_startProvider()@resource://gre/modules/AddonManager.jsm:728
+startup()@resource://gre/modules/AddonManager.jsm:892
+startup()@resource://gre/modules/AddonManager.jsm:2976
+observe()@jar:file:///usr/lib64/firefox/omni.ja!/components/addonManager.js:63
+1547435003806	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1547435004776	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1547435004918	Marionette	INFO	Listening on port 45388
+1547435004997	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib64/firefox/firefox:3902): Gtk-WARNING **: 11:03:25.886: Could not load a pixbuf from /org/gtk/libgtk/theme/Adwaita/assets/check-symbolic.svg.
+This may indicate that pixbuf loaders or the mime database could not be found.
+JavaScript warning: https://ty.captcha.qq.com/code?siteKey=9WY11WYltbEgYnEIaMhTrkSZqlAPCJzjEbBTyP1cLVkMJWWSB7rQrimq%2F0arQ5A0&Action=GetWebJs, line 1: Error: WebGL warning: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ty.captcha.qq.com/code?siteKey=9WY11WYltbEgYnEIaMhTrkSZqlAPCJzjEbBTyP1cLVkMJWWSB7rQrimq%2F0arQ5A0&Action=GetWebJs, line 1: Error: WebGL warning: Refused to create native OpenGL context because of blacklist entry: 
+JavaScript warning: https://ty.captcha.qq.com/code?siteKey=9WY11WYltbEgYnEIaMhTrkSZqlAPCJzjEbBTyP1cLVkMJWWSB7rQrimq%2F0arQ5A0&Action=GetWebJs, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Refused to create native OpenGL context because of blacklist entry: 
+* Exhausted GL driver options.
+JavaScript warning: https://ty.captcha.qq.com/code?siteKey=9WY11WYltbEgYnEIaMhTrkSZqlAPCJzjEbBTyP1cLVkMJWWSB7rQrimq%2F0arQ5A0&Action=GetWebJs, line 1: Error: WebGL warning: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ty.captcha.qq.com/code?siteKey=9WY11WYltbEgYnEIaMhTrkSZqlAPCJzjEbBTyP1cLVkMJWWSB7rQrimq%2F0arQ5A0&Action=GetWebJs, line 1: Error: WebGL warning: Refused to create native OpenGL context because of blacklist entry: 
+JavaScript warning: https://ty.captcha.qq.com/code?siteKey=9WY11WYltbEgYnEIaMhTrkSZqlAPCJzjEbBTyP1cLVkMJWWSB7rQrimq%2F0arQ5A0&Action=GetWebJs, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Refused to create native OpenGL context because of blacklist entry: 
+* Exhausted GL driver options.
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Failed to open connection to "session" message bus: /usr/bin/dbus-launch terminated abnormally without any error message
+1547698519721	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.F280m6NDjKi4"
+Failed to open connection to "session" message bus: /usr/bin/dbus-launch terminated abnormally without any error message
+Running without a11y support!
+1547698519924	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1547698520027	addons.xpi-utils	WARN	addMetadata: Add-on aushelper@mozilla.org is invalid: [Exception... "Component returned failure code: 0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST) [nsIFile.isFile]"  nsresult: "0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST)"  location: "JS frame :: resource://gre/modules/addons/XPIInstall.jsm :: loadManifestFromFile :: line 925"  data: no] Stack trace: loadManifestFromFile()@resource://gre/modules/addons/XPIInstall.jsm:925
+syncLoadManifestFromFile()@resource://gre/modules/addons/XPIProvider.jsm:940
+addMetadata()@resource://gre/modules/addons/XPIProvider.jsm -> resource://gre/modules/addons/XPIProviderUtils.js:1167
+processFileChanges()@resource://gre/modules/addons/XPIProvider.jsm -> resource://gre/modules/addons/XPIProviderUtils.js:1523
+checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3304
+startup()@resource://gre/modules/addons/XPIProvider.jsm:2196
+callProvider()@resource://gre/modules/AddonManager.jsm:253
+_startProvider()@resource://gre/modules/AddonManager.jsm:728
+startup()@resource://gre/modules/AddonManager.jsm:892
+startup()@resource://gre/modules/AddonManager.jsm:2976
+observe()@jar:file:///usr/lib64/firefox/omni.ja!/components/addonManager.js:63
+1547698520028	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1547698521090	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1547698521241	Marionette	INFO	Listening on port 34048
+1547698521341	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib64/firefox/firefox:3084): Gtk-WARNING **: 12:15:22.221: Could not load a pixbuf from /org/gtk/libgtk/theme/Adwaita/assets/check-symbolic.svg.
+This may indicate that pixbuf loaders or the mime database could not be found.
+JavaScript warning: https://ty.captcha.qq.com/code?siteKey=9WY11WYltbEgYnEIaMhTrkSZqlAPCJzjEbBTyP1cLVkMJWWSB7rQrimq%2F0arQ5A0&Action=GetWebJs, line 1: Error: WebGL warning: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ty.captcha.qq.com/code?siteKey=9WY11WYltbEgYnEIaMhTrkSZqlAPCJzjEbBTyP1cLVkMJWWSB7rQrimq%2F0arQ5A0&Action=GetWebJs, line 1: Error: WebGL warning: Refused to create native OpenGL context because of blacklist entry: 
+JavaScript warning: https://ty.captcha.qq.com/code?siteKey=9WY11WYltbEgYnEIaMhTrkSZqlAPCJzjEbBTyP1cLVkMJWWSB7rQrimq%2F0arQ5A0&Action=GetWebJs, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Refused to create native OpenGL context because of blacklist entry: 
+* Exhausted GL driver options.
+JavaScript warning: https://ty.captcha.qq.com/code?siteKey=9WY11WYltbEgYnEIaMhTrkSZqlAPCJzjEbBTyP1cLVkMJWWSB7rQrimq%2F0arQ5A0&Action=GetWebJs, line 1: Error: WebGL warning: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ty.captcha.qq.com/code?siteKey=9WY11WYltbEgYnEIaMhTrkSZqlAPCJzjEbBTyP1cLVkMJWWSB7rQrimq%2F0arQ5A0&Action=GetWebJs, line 1: Error: WebGL warning: Refused to create native OpenGL context because of blacklist entry: 
+JavaScript warning: https://ty.captcha.qq.com/code?siteKey=9WY11WYltbEgYnEIaMhTrkSZqlAPCJzjEbBTyP1cLVkMJWWSB7rQrimq%2F0arQ5A0&Action=GetWebJs, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Refused to create native OpenGL context because of blacklist entry: 
+* Exhausted GL driver options.
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Failed to open connection to "session" message bus: /usr/bin/dbus-launch terminated abnormally without any error message
+1547698652238	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ZXtvXi4pk7Re"
+Failed to open connection to "session" message bus: /usr/bin/dbus-launch terminated abnormally without any error message
+Running without a11y support!
+1547698652418	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1547698652519	addons.xpi-utils	WARN	addMetadata: Add-on aushelper@mozilla.org is invalid: [Exception... "Component returned failure code: 0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST) [nsIFile.isFile]"  nsresult: "0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST)"  location: "JS frame :: resource://gre/modules/addons/XPIInstall.jsm :: loadManifestFromFile :: line 925"  data: no] Stack trace: loadManifestFromFile()@resource://gre/modules/addons/XPIInstall.jsm:925
+syncLoadManifestFromFile()@resource://gre/modules/addons/XPIProvider.jsm:940
+addMetadata()@resource://gre/modules/addons/XPIProvider.jsm -> resource://gre/modules/addons/XPIProviderUtils.js:1167
+processFileChanges()@resource://gre/modules/addons/XPIProvider.jsm -> resource://gre/modules/addons/XPIProviderUtils.js:1523
+checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3304
+startup()@resource://gre/modules/addons/XPIProvider.jsm:2196
+callProvider()@resource://gre/modules/AddonManager.jsm:253
+_startProvider()@resource://gre/modules/AddonManager.jsm:728
+startup()@resource://gre/modules/AddonManager.jsm:892
+startup()@resource://gre/modules/AddonManager.jsm:2976
+observe()@jar:file:///usr/lib64/firefox/omni.ja!/components/addonManager.js:63
+1547698652522	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1547698653506	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1547698653645	Marionette	INFO	Listening on port 40293
+1547698653744	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib64/firefox/firefox:3738): Gtk-WARNING **: 12:17:34.550: Could not load a pixbuf from /org/gtk/libgtk/theme/Adwaita/assets/check-symbolic.svg.
+This may indicate that pixbuf loaders or the mime database could not be found.
+JavaScript warning: https://ty.captcha.qq.com/code?siteKey=9WY11WYltbEgYnEIaMhTrkSZqlAPCJzjEbBTyP1cLVkMJWWSB7rQrimq%2F0arQ5A0&Action=GetWebJs, line 1: Error: WebGL warning: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ty.captcha.qq.com/code?siteKey=9WY11WYltbEgYnEIaMhTrkSZqlAPCJzjEbBTyP1cLVkMJWWSB7rQrimq%2F0arQ5A0&Action=GetWebJs, line 1: Error: WebGL warning: Refused to create native OpenGL context because of blacklist entry: 
+JavaScript warning: https://ty.captcha.qq.com/code?siteKey=9WY11WYltbEgYnEIaMhTrkSZqlAPCJzjEbBTyP1cLVkMJWWSB7rQrimq%2F0arQ5A0&Action=GetWebJs, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Refused to create native OpenGL context because of blacklist entry: 
+* Exhausted GL driver options.
+JavaScript warning: https://ty.captcha.qq.com/code?siteKey=9WY11WYltbEgYnEIaMhTrkSZqlAPCJzjEbBTyP1cLVkMJWWSB7rQrimq%2F0arQ5A0&Action=GetWebJs, line 1: Error: WebGL warning: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ty.captcha.qq.com/code?siteKey=9WY11WYltbEgYnEIaMhTrkSZqlAPCJzjEbBTyP1cLVkMJWWSB7rQrimq%2F0arQ5A0&Action=GetWebJs, line 1: Error: WebGL warning: Refused to create native OpenGL context because of blacklist entry: 
+JavaScript warning: https://ty.captcha.qq.com/code?siteKey=9WY11WYltbEgYnEIaMhTrkSZqlAPCJzjEbBTyP1cLVkMJWWSB7rQrimq%2F0arQ5A0&Action=GetWebJs, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Refused to create native OpenGL context because of blacklist entry: 
+* Exhausted GL driver options.
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Failed to open connection to "session" message bus: /usr/bin/dbus-launch terminated abnormally without any error message
+1547698911536	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.CY4eVAH2JE0z"
+Failed to open connection to "session" message bus: /usr/bin/dbus-launch terminated abnormally without any error message
+Running without a11y support!
+1547698911720	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1547698911818	addons.xpi-utils	WARN	addMetadata: Add-on aushelper@mozilla.org is invalid: [Exception... "Component returned failure code: 0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST) [nsIFile.isFile]"  nsresult: "0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST)"  location: "JS frame :: resource://gre/modules/addons/XPIInstall.jsm :: loadManifestFromFile :: line 925"  data: no] Stack trace: loadManifestFromFile()@resource://gre/modules/addons/XPIInstall.jsm:925
+syncLoadManifestFromFile()@resource://gre/modules/addons/XPIProvider.jsm:940
+addMetadata()@resource://gre/modules/addons/XPIProvider.jsm -> resource://gre/modules/addons/XPIProviderUtils.js:1167
+processFileChanges()@resource://gre/modules/addons/XPIProvider.jsm -> resource://gre/modules/addons/XPIProviderUtils.js:1523
+checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3304
+startup()@resource://gre/modules/addons/XPIProvider.jsm:2196
+callProvider()@resource://gre/modules/AddonManager.jsm:253
+_startProvider()@resource://gre/modules/AddonManager.jsm:728
+startup()@resource://gre/modules/AddonManager.jsm:892
+startup()@resource://gre/modules/AddonManager.jsm:2976
+observe()@jar:file:///usr/lib64/firefox/omni.ja!/components/addonManager.js:63
+1547698911818	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1547698912863	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1547698913010	Marionette	INFO	Listening on port 34512
+1547698913047	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib64/firefox/firefox:4806): Gtk-WARNING **: 12:21:54.303: Could not load a pixbuf from /org/gtk/libgtk/theme/Adwaita/assets/check-symbolic.svg.
+This may indicate that pixbuf loaders or the mime database could not be found.
+JavaScript warning: https://ty.captcha.qq.com/code?siteKey=9WY11WYltbEgYnEIaMhTrkSZqlAPCJzjEbBTyP1cLVkMJWWSB7rQrimq%2F0arQ5A0&Action=GetWebJs, line 1: Error: WebGL warning: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ty.captcha.qq.com/code?siteKey=9WY11WYltbEgYnEIaMhTrkSZqlAPCJzjEbBTyP1cLVkMJWWSB7rQrimq%2F0arQ5A0&Action=GetWebJs, line 1: Error: WebGL warning: Refused to create native OpenGL context because of blacklist entry: 
+JavaScript warning: https://ty.captcha.qq.com/code?siteKey=9WY11WYltbEgYnEIaMhTrkSZqlAPCJzjEbBTyP1cLVkMJWWSB7rQrimq%2F0arQ5A0&Action=GetWebJs, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Refused to create native OpenGL context because of blacklist entry: 
+* Exhausted GL driver options.
+JavaScript warning: https://ty.captcha.qq.com/code?siteKey=9WY11WYltbEgYnEIaMhTrkSZqlAPCJzjEbBTyP1cLVkMJWWSB7rQrimq%2F0arQ5A0&Action=GetWebJs, line 1: Error: WebGL warning: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ty.captcha.qq.com/code?siteKey=9WY11WYltbEgYnEIaMhTrkSZqlAPCJzjEbBTyP1cLVkMJWWSB7rQrimq%2F0arQ5A0&Action=GetWebJs, line 1: Error: WebGL warning: Refused to create native OpenGL context because of blacklist entry: 
+JavaScript warning: https://ty.captcha.qq.com/code?siteKey=9WY11WYltbEgYnEIaMhTrkSZqlAPCJzjEbBTyP1cLVkMJWWSB7rQrimq%2F0arQ5A0&Action=GetWebJs, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Refused to create native OpenGL context because of blacklist entry: 
+* Exhausted GL driver options.
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Failed to open connection to "session" message bus: /usr/bin/dbus-launch terminated abnormally without any error message
+1547698986527	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.OzhM8wPOKoL2"
+Failed to open connection to "session" message bus: /usr/bin/dbus-launch terminated abnormally without any error message
+Running without a11y support!
+1547698986731	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1547698986832	addons.xpi-utils	WARN	addMetadata: Add-on aushelper@mozilla.org is invalid: [Exception... "Component returned failure code: 0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST) [nsIFile.isFile]"  nsresult: "0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST)"  location: "JS frame :: resource://gre/modules/addons/XPIInstall.jsm :: loadManifestFromFile :: line 925"  data: no] Stack trace: loadManifestFromFile()@resource://gre/modules/addons/XPIInstall.jsm:925
+syncLoadManifestFromFile()@resource://gre/modules/addons/XPIProvider.jsm:940
+addMetadata()@resource://gre/modules/addons/XPIProvider.jsm -> resource://gre/modules/addons/XPIProviderUtils.js:1167
+processFileChanges()@resource://gre/modules/addons/XPIProvider.jsm -> resource://gre/modules/addons/XPIProviderUtils.js:1523
+checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3304
+startup()@resource://gre/modules/addons/XPIProvider.jsm:2196
+callProvider()@resource://gre/modules/AddonManager.jsm:253
+_startProvider()@resource://gre/modules/AddonManager.jsm:728
+startup()@resource://gre/modules/AddonManager.jsm:892
+startup()@resource://gre/modules/AddonManager.jsm:2976
+observe()@jar:file:///usr/lib64/firefox/omni.ja!/components/addonManager.js:63
+1547698986833	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1547698987860	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1547698988002	Marionette	INFO	Listening on port 43623
+1547698988035	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib64/firefox/firefox:5238): Gtk-WARNING **: 12:23:08.898: Could not load a pixbuf from /org/gtk/libgtk/theme/Adwaita/assets/check-symbolic.svg.
+This may indicate that pixbuf loaders or the mime database could not be found.
+JavaScript warning: https://ty.captcha.qq.com/code?siteKey=9WY11WYltbEgYnEIaMhTrkSZqlAPCJzjEbBTyP1cLVkMJWWSB7rQrimq%2F0arQ5A0&Action=GetWebJs, line 1: Error: WebGL warning: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ty.captcha.qq.com/code?siteKey=9WY11WYltbEgYnEIaMhTrkSZqlAPCJzjEbBTyP1cLVkMJWWSB7rQrimq%2F0arQ5A0&Action=GetWebJs, line 1: Error: WebGL warning: Refused to create native OpenGL context because of blacklist entry: 
+JavaScript warning: https://ty.captcha.qq.com/code?siteKey=9WY11WYltbEgYnEIaMhTrkSZqlAPCJzjEbBTyP1cLVkMJWWSB7rQrimq%2F0arQ5A0&Action=GetWebJs, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Refused to create native OpenGL context because of blacklist entry: 
+* Exhausted GL driver options.
+JavaScript warning: https://ty.captcha.qq.com/code?siteKey=9WY11WYltbEgYnEIaMhTrkSZqlAPCJzjEbBTyP1cLVkMJWWSB7rQrimq%2F0arQ5A0&Action=GetWebJs, line 1: Error: WebGL warning: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ty.captcha.qq.com/code?siteKey=9WY11WYltbEgYnEIaMhTrkSZqlAPCJzjEbBTyP1cLVkMJWWSB7rQrimq%2F0arQ5A0&Action=GetWebJs, line 1: Error: WebGL warning: Refused to create native OpenGL context because of blacklist entry: 
+JavaScript warning: https://ty.captcha.qq.com/code?siteKey=9WY11WYltbEgYnEIaMhTrkSZqlAPCJzjEbBTyP1cLVkMJWWSB7rQrimq%2F0arQ5A0&Action=GetWebJs, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Refused to create native OpenGL context because of blacklist entry: 
+* Exhausted GL driver options.
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Failed to open connection to "session" message bus: /usr/bin/dbus-launch terminated abnormally without any error message
+1547699080094	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.vckjGTIFUO0r"
+Failed to open connection to "session" message bus: /usr/bin/dbus-launch terminated abnormally without any error message
+Running without a11y support!
+1547699080290	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1547699080399	addons.xpi-utils	WARN	addMetadata: Add-on aushelper@mozilla.org is invalid: [Exception... "Component returned failure code: 0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST) [nsIFile.isFile]"  nsresult: "0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST)"  location: "JS frame :: resource://gre/modules/addons/XPIInstall.jsm :: loadManifestFromFile :: line 925"  data: no] Stack trace: loadManifestFromFile()@resource://gre/modules/addons/XPIInstall.jsm:925
+syncLoadManifestFromFile()@resource://gre/modules/addons/XPIProvider.jsm:940
+addMetadata()@resource://gre/modules/addons/XPIProvider.jsm -> resource://gre/modules/addons/XPIProviderUtils.js:1167
+processFileChanges()@resource://gre/modules/addons/XPIProvider.jsm -> resource://gre/modules/addons/XPIProviderUtils.js:1523
+checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3304
+startup()@resource://gre/modules/addons/XPIProvider.jsm:2196
+callProvider()@resource://gre/modules/AddonManager.jsm:253
+_startProvider()@resource://gre/modules/AddonManager.jsm:728
+startup()@resource://gre/modules/AddonManager.jsm:892
+startup()@resource://gre/modules/AddonManager.jsm:2976
+observe()@jar:file:///usr/lib64/firefox/omni.ja!/components/addonManager.js:63
+1547699080400	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1547699081428	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1547699081616	Marionette	INFO	Listening on port 44106
+1547699081713	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib64/firefox/firefox:5741): Gtk-WARNING **: 12:24:42.568: Could not load a pixbuf from /org/gtk/libgtk/theme/Adwaita/assets/check-symbolic.svg.
+This may indicate that pixbuf loaders or the mime database could not be found.
+JavaScript warning: https://ty.captcha.qq.com/code?siteKey=9WY11WYltbEgYnEIaMhTrkSZqlAPCJzjEbBTyP1cLVkMJWWSB7rQrimq%2F0arQ5A0&Action=GetWebJs, line 1: Error: WebGL warning: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ty.captcha.qq.com/code?siteKey=9WY11WYltbEgYnEIaMhTrkSZqlAPCJzjEbBTyP1cLVkMJWWSB7rQrimq%2F0arQ5A0&Action=GetWebJs, line 1: Error: WebGL warning: Refused to create native OpenGL context because of blacklist entry: 
+JavaScript warning: https://ty.captcha.qq.com/code?siteKey=9WY11WYltbEgYnEIaMhTrkSZqlAPCJzjEbBTyP1cLVkMJWWSB7rQrimq%2F0arQ5A0&Action=GetWebJs, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Refused to create native OpenGL context because of blacklist entry: 
+* Exhausted GL driver options.
+JavaScript warning: https://ty.captcha.qq.com/code?siteKey=9WY11WYltbEgYnEIaMhTrkSZqlAPCJzjEbBTyP1cLVkMJWWSB7rQrimq%2F0arQ5A0&Action=GetWebJs, line 1: Error: WebGL warning: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ty.captcha.qq.com/code?siteKey=9WY11WYltbEgYnEIaMhTrkSZqlAPCJzjEbBTyP1cLVkMJWWSB7rQrimq%2F0arQ5A0&Action=GetWebJs, line 1: Error: WebGL warning: Refused to create native OpenGL context because of blacklist entry: 
+JavaScript warning: https://ty.captcha.qq.com/code?siteKey=9WY11WYltbEgYnEIaMhTrkSZqlAPCJzjEbBTyP1cLVkMJWWSB7rQrimq%2F0arQ5A0&Action=GetWebJs, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Refused to create native OpenGL context because of blacklist entry: 
+* Exhausted GL driver options.
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Failed to open connection to "session" message bus: /usr/bin/dbus-launch terminated abnormally without any error message
+1547699309396	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.scfi7ez0GiQZ"
+Failed to open connection to "session" message bus: /usr/bin/dbus-launch terminated abnormally without any error message
+Running without a11y support!
+1547699309579	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1547699309686	addons.xpi-utils	WARN	addMetadata: Add-on aushelper@mozilla.org is invalid: [Exception... "Component returned failure code: 0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST) [nsIFile.isFile]"  nsresult: "0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST)"  location: "JS frame :: resource://gre/modules/addons/XPIInstall.jsm :: loadManifestFromFile :: line 925"  data: no] Stack trace: loadManifestFromFile()@resource://gre/modules/addons/XPIInstall.jsm:925
+syncLoadManifestFromFile()@resource://gre/modules/addons/XPIProvider.jsm:940
+addMetadata()@resource://gre/modules/addons/XPIProvider.jsm -> resource://gre/modules/addons/XPIProviderUtils.js:1167
+processFileChanges()@resource://gre/modules/addons/XPIProvider.jsm -> resource://gre/modules/addons/XPIProviderUtils.js:1523
+checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3304
+startup()@resource://gre/modules/addons/XPIProvider.jsm:2196
+callProvider()@resource://gre/modules/AddonManager.jsm:253
+_startProvider()@resource://gre/modules/AddonManager.jsm:728
+startup()@resource://gre/modules/AddonManager.jsm:892
+startup()@resource://gre/modules/AddonManager.jsm:2976
+observe()@jar:file:///usr/lib64/firefox/omni.ja!/components/addonManager.js:63
+1547699309687	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1547699310773	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1547699310917	Marionette	INFO	Listening on port 42965
+1547699311007	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib64/firefox/firefox:6676): Gtk-WARNING **: 12:28:31.965: Could not load a pixbuf from /org/gtk/libgtk/theme/Adwaita/assets/check-symbolic.svg.
+This may indicate that pixbuf loaders or the mime database could not be found.
+JavaScript warning: https://ty.captcha.qq.com/code?siteKey=9WY11WYltbEgYnEIaMhTrkSZqlAPCJzjEbBTyP1cLVkMJWWSB7rQrimq%2F0arQ5A0&Action=GetWebJs, line 1: Error: WebGL warning: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ty.captcha.qq.com/code?siteKey=9WY11WYltbEgYnEIaMhTrkSZqlAPCJzjEbBTyP1cLVkMJWWSB7rQrimq%2F0arQ5A0&Action=GetWebJs, line 1: Error: WebGL warning: Refused to create native OpenGL context because of blacklist entry: 
+JavaScript warning: https://ty.captcha.qq.com/code?siteKey=9WY11WYltbEgYnEIaMhTrkSZqlAPCJzjEbBTyP1cLVkMJWWSB7rQrimq%2F0arQ5A0&Action=GetWebJs, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Refused to create native OpenGL context because of blacklist entry: 
+* Exhausted GL driver options.
+JavaScript warning: https://ty.captcha.qq.com/code?siteKey=9WY11WYltbEgYnEIaMhTrkSZqlAPCJzjEbBTyP1cLVkMJWWSB7rQrimq%2F0arQ5A0&Action=GetWebJs, line 1: Error: WebGL warning: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ty.captcha.qq.com/code?siteKey=9WY11WYltbEgYnEIaMhTrkSZqlAPCJzjEbBTyP1cLVkMJWWSB7rQrimq%2F0arQ5A0&Action=GetWebJs, line 1: Error: WebGL warning: Refused to create native OpenGL context because of blacklist entry: 
+JavaScript warning: https://ty.captcha.qq.com/code?siteKey=9WY11WYltbEgYnEIaMhTrkSZqlAPCJzjEbBTyP1cLVkMJWWSB7rQrimq%2F0arQ5A0&Action=GetWebJs, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Refused to create native OpenGL context because of blacklist entry: 
+* Exhausted GL driver options.
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Failed to open connection to "session" message bus: /usr/bin/dbus-launch terminated abnormally without any error message
+1547699511435	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ypmubwHtoLzX"
+Failed to open connection to "session" message bus: /usr/bin/dbus-launch terminated abnormally without any error message
+Running without a11y support!
+1547699511664	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1547699511760	addons.xpi-utils	WARN	addMetadata: Add-on aushelper@mozilla.org is invalid: [Exception... "Component returned failure code: 0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST) [nsIFile.isFile]"  nsresult: "0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST)"  location: "JS frame :: resource://gre/modules/addons/XPIInstall.jsm :: loadManifestFromFile :: line 925"  data: no] Stack trace: loadManifestFromFile()@resource://gre/modules/addons/XPIInstall.jsm:925
+syncLoadManifestFromFile()@resource://gre/modules/addons/XPIProvider.jsm:940
+addMetadata()@resource://gre/modules/addons/XPIProvider.jsm -> resource://gre/modules/addons/XPIProviderUtils.js:1167
+processFileChanges()@resource://gre/modules/addons/XPIProvider.jsm -> resource://gre/modules/addons/XPIProviderUtils.js:1523
+checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3304
+startup()@resource://gre/modules/addons/XPIProvider.jsm:2196
+callProvider()@resource://gre/modules/AddonManager.jsm:253
+_startProvider()@resource://gre/modules/AddonManager.jsm:728
+startup()@resource://gre/modules/AddonManager.jsm:892
+startup()@resource://gre/modules/AddonManager.jsm:2976
+observe()@jar:file:///usr/lib64/firefox/omni.ja!/components/addonManager.js:63
+1547699511761	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1547699512800	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1547699512937	Marionette	INFO	Listening on port 39666
+1547699512945	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib64/firefox/firefox:7546): Gtk-WARNING **: 12:31:53.941: Could not load a pixbuf from /org/gtk/libgtk/theme/Adwaita/assets/check-symbolic.svg.
+This may indicate that pixbuf loaders or the mime database could not be found.
+JavaScript warning: https://ty.captcha.qq.com/code?siteKey=9WY11WYltbEgYnEIaMhTrkSZqlAPCJzjEbBTyP1cLVkMJWWSB7rQrimq%2F0arQ5A0&Action=GetWebJs, line 1: Error: WebGL warning: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ty.captcha.qq.com/code?siteKey=9WY11WYltbEgYnEIaMhTrkSZqlAPCJzjEbBTyP1cLVkMJWWSB7rQrimq%2F0arQ5A0&Action=GetWebJs, line 1: Error: WebGL warning: Refused to create native OpenGL context because of blacklist entry: 
+JavaScript warning: https://ty.captcha.qq.com/code?siteKey=9WY11WYltbEgYnEIaMhTrkSZqlAPCJzjEbBTyP1cLVkMJWWSB7rQrimq%2F0arQ5A0&Action=GetWebJs, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Refused to create native OpenGL context because of blacklist entry: 
+* Exhausted GL driver options.
+JavaScript warning: https://ty.captcha.qq.com/code?siteKey=9WY11WYltbEgYnEIaMhTrkSZqlAPCJzjEbBTyP1cLVkMJWWSB7rQrimq%2F0arQ5A0&Action=GetWebJs, line 1: Error: WebGL warning: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ty.captcha.qq.com/code?siteKey=9WY11WYltbEgYnEIaMhTrkSZqlAPCJzjEbBTyP1cLVkMJWWSB7rQrimq%2F0arQ5A0&Action=GetWebJs, line 1: Error: WebGL warning: Refused to create native OpenGL context because of blacklist entry: 
+JavaScript warning: https://ty.captcha.qq.com/code?siteKey=9WY11WYltbEgYnEIaMhTrkSZqlAPCJzjEbBTyP1cLVkMJWWSB7rQrimq%2F0arQ5A0&Action=GetWebJs, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Refused to create native OpenGL context because of blacklist entry: 
+* Exhausted GL driver options.
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Failed to open connection to "session" message bus: /usr/bin/dbus-launch terminated abnormally without any error message
+1547699672112	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.IKtCNpPgk5qs"
+Failed to open connection to "session" message bus: /usr/bin/dbus-launch terminated abnormally without any error message
+Running without a11y support!
+1547699672301	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1547699672400	addons.xpi-utils	WARN	addMetadata: Add-on aushelper@mozilla.org is invalid: [Exception... "Component returned failure code: 0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST) [nsIFile.isFile]"  nsresult: "0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST)"  location: "JS frame :: resource://gre/modules/addons/XPIInstall.jsm :: loadManifestFromFile :: line 925"  data: no] Stack trace: loadManifestFromFile()@resource://gre/modules/addons/XPIInstall.jsm:925
+syncLoadManifestFromFile()@resource://gre/modules/addons/XPIProvider.jsm:940
+addMetadata()@resource://gre/modules/addons/XPIProvider.jsm -> resource://gre/modules/addons/XPIProviderUtils.js:1167
+processFileChanges()@resource://gre/modules/addons/XPIProvider.jsm -> resource://gre/modules/addons/XPIProviderUtils.js:1523
+checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3304
+startup()@resource://gre/modules/addons/XPIProvider.jsm:2196
+callProvider()@resource://gre/modules/AddonManager.jsm:253
+_startProvider()@resource://gre/modules/AddonManager.jsm:728
+startup()@resource://gre/modules/AddonManager.jsm:892
+startup()@resource://gre/modules/AddonManager.jsm:2976
+observe()@jar:file:///usr/lib64/firefox/omni.ja!/components/addonManager.js:63
+1547699672400	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1547699673405	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1547699673557	Marionette	INFO	Listening on port 33200
+1547699673627	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib64/firefox/firefox:8309): Gtk-WARNING **: 12:34:34.560: Could not load a pixbuf from /org/gtk/libgtk/theme/Adwaita/assets/check-symbolic.svg.
+This may indicate that pixbuf loaders or the mime database could not be found.
+JavaScript warning: https://ty.captcha.qq.com/code?siteKey=9WY11WYltbEgYnEIaMhTrkSZqlAPCJzjEbBTyP1cLVkMJWWSB7rQrimq%2F0arQ5A0&Action=GetWebJs, line 1: Error: WebGL warning: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ty.captcha.qq.com/code?siteKey=9WY11WYltbEgYnEIaMhTrkSZqlAPCJzjEbBTyP1cLVkMJWWSB7rQrimq%2F0arQ5A0&Action=GetWebJs, line 1: Error: WebGL warning: Refused to create native OpenGL context because of blacklist entry: 
+JavaScript warning: https://ty.captcha.qq.com/code?siteKey=9WY11WYltbEgYnEIaMhTrkSZqlAPCJzjEbBTyP1cLVkMJWWSB7rQrimq%2F0arQ5A0&Action=GetWebJs, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Refused to create native OpenGL context because of blacklist entry: 
+* Exhausted GL driver options.
+JavaScript warning: https://ty.captcha.qq.com/code?siteKey=9WY11WYltbEgYnEIaMhTrkSZqlAPCJzjEbBTyP1cLVkMJWWSB7rQrimq%2F0arQ5A0&Action=GetWebJs, line 1: Error: WebGL warning: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ty.captcha.qq.com/code?siteKey=9WY11WYltbEgYnEIaMhTrkSZqlAPCJzjEbBTyP1cLVkMJWWSB7rQrimq%2F0arQ5A0&Action=GetWebJs, line 1: Error: WebGL warning: Refused to create native OpenGL context because of blacklist entry: 
+JavaScript warning: https://ty.captcha.qq.com/code?siteKey=9WY11WYltbEgYnEIaMhTrkSZqlAPCJzjEbBTyP1cLVkMJWWSB7rQrimq%2F0arQ5A0&Action=GetWebJs, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Refused to create native OpenGL context because of blacklist entry: 
+* Exhausted GL driver options.
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Failed to open connection to "session" message bus: /usr/bin/dbus-launch terminated abnormally without any error message
+1547699902974	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.SBaG7KHyXU50"
+Failed to open connection to "session" message bus: /usr/bin/dbus-launch terminated abnormally without any error message
+Running without a11y support!
+1547699903165	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1547699903267	addons.xpi-utils	WARN	addMetadata: Add-on aushelper@mozilla.org is invalid: [Exception... "Component returned failure code: 0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST) [nsIFile.isFile]"  nsresult: "0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST)"  location: "JS frame :: resource://gre/modules/addons/XPIInstall.jsm :: loadManifestFromFile :: line 925"  data: no] Stack trace: loadManifestFromFile()@resource://gre/modules/addons/XPIInstall.jsm:925
+syncLoadManifestFromFile()@resource://gre/modules/addons/XPIProvider.jsm:940
+addMetadata()@resource://gre/modules/addons/XPIProvider.jsm -> resource://gre/modules/addons/XPIProviderUtils.js:1167
+processFileChanges()@resource://gre/modules/addons/XPIProvider.jsm -> resource://gre/modules/addons/XPIProviderUtils.js:1523
+checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3304
+startup()@resource://gre/modules/addons/XPIProvider.jsm:2196
+callProvider()@resource://gre/modules/AddonManager.jsm:253
+_startProvider()@resource://gre/modules/AddonManager.jsm:728
+startup()@resource://gre/modules/AddonManager.jsm:892
+startup()@resource://gre/modules/AddonManager.jsm:2976
+observe()@jar:file:///usr/lib64/firefox/omni.ja!/components/addonManager.js:63
+1547699903268	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1547699904241	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1547699904385	Marionette	INFO	Listening on port 39018
+1547699904485	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib64/firefox/firefox:9273): Gtk-WARNING **: 12:38:25.866: Could not load a pixbuf from /org/gtk/libgtk/theme/Adwaita/assets/check-symbolic.svg.
+This may indicate that pixbuf loaders or the mime database could not be found.
+JavaScript warning: https://ty.captcha.qq.com/code?siteKey=9WY11WYltbEgYnEIaMhTrkSZqlAPCJzjEbBTyP1cLVkMJWWSB7rQrimq%2F0arQ5A0&Action=GetWebJs, line 1: Error: WebGL warning: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ty.captcha.qq.com/code?siteKey=9WY11WYltbEgYnEIaMhTrkSZqlAPCJzjEbBTyP1cLVkMJWWSB7rQrimq%2F0arQ5A0&Action=GetWebJs, line 1: Error: WebGL warning: Refused to create native OpenGL context because of blacklist entry: 
+JavaScript warning: https://ty.captcha.qq.com/code?siteKey=9WY11WYltbEgYnEIaMhTrkSZqlAPCJzjEbBTyP1cLVkMJWWSB7rQrimq%2F0arQ5A0&Action=GetWebJs, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Refused to create native OpenGL context because of blacklist entry: 
+* Exhausted GL driver options.
+JavaScript warning: https://ty.captcha.qq.com/code?siteKey=9WY11WYltbEgYnEIaMhTrkSZqlAPCJzjEbBTyP1cLVkMJWWSB7rQrimq%2F0arQ5A0&Action=GetWebJs, line 1: Error: WebGL warning: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ty.captcha.qq.com/code?siteKey=9WY11WYltbEgYnEIaMhTrkSZqlAPCJzjEbBTyP1cLVkMJWWSB7rQrimq%2F0arQ5A0&Action=GetWebJs, line 1: Error: WebGL warning: Refused to create native OpenGL context because of blacklist entry: 
+JavaScript warning: https://ty.captcha.qq.com/code?siteKey=9WY11WYltbEgYnEIaMhTrkSZqlAPCJzjEbBTyP1cLVkMJWWSB7rQrimq%2F0arQ5A0&Action=GetWebJs, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Refused to create native OpenGL context because of blacklist entry: 
+* Exhausted GL driver options.
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Failed to open connection to "session" message bus: /usr/bin/dbus-launch terminated abnormally without any error message
+1547700014738	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.vfpA18MuMbKU"
+Failed to open connection to "session" message bus: /usr/bin/dbus-launch terminated abnormally without any error message
+Running without a11y support!
+1547700014931	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1547700015034	addons.xpi-utils	WARN	addMetadata: Add-on aushelper@mozilla.org is invalid: [Exception... "Component returned failure code: 0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST) [nsIFile.isFile]"  nsresult: "0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST)"  location: "JS frame :: resource://gre/modules/addons/XPIInstall.jsm :: loadManifestFromFile :: line 925"  data: no] Stack trace: loadManifestFromFile()@resource://gre/modules/addons/XPIInstall.jsm:925
+syncLoadManifestFromFile()@resource://gre/modules/addons/XPIProvider.jsm:940
+addMetadata()@resource://gre/modules/addons/XPIProvider.jsm -> resource://gre/modules/addons/XPIProviderUtils.js:1167
+processFileChanges()@resource://gre/modules/addons/XPIProvider.jsm -> resource://gre/modules/addons/XPIProviderUtils.js:1523
+checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3304
+startup()@resource://gre/modules/addons/XPIProvider.jsm:2196
+callProvider()@resource://gre/modules/AddonManager.jsm:253
+_startProvider()@resource://gre/modules/AddonManager.jsm:728
+startup()@resource://gre/modules/AddonManager.jsm:892
+startup()@resource://gre/modules/AddonManager.jsm:2976
+observe()@jar:file:///usr/lib64/firefox/omni.ja!/components/addonManager.js:63
+1547700015036	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1547700016109	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1547700016253	Marionette	INFO	Listening on port 44947
+1547700016348	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib64/firefox/firefox:9852): Gtk-WARNING **: 12:40:17.471: Could not load a pixbuf from /org/gtk/libgtk/theme/Adwaita/assets/check-symbolic.svg.
+This may indicate that pixbuf loaders or the mime database could not be found.
+JavaScript warning: https://ty.captcha.qq.com/code?siteKey=9WY11WYltbEgYnEIaMhTrkSZqlAPCJzjEbBTyP1cLVkMJWWSB7rQrimq%2F0arQ5A0&Action=GetWebJs, line 1: Error: WebGL warning: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ty.captcha.qq.com/code?siteKey=9WY11WYltbEgYnEIaMhTrkSZqlAPCJzjEbBTyP1cLVkMJWWSB7rQrimq%2F0arQ5A0&Action=GetWebJs, line 1: Error: WebGL warning: Refused to create native OpenGL context because of blacklist entry: 
+JavaScript warning: https://ty.captcha.qq.com/code?siteKey=9WY11WYltbEgYnEIaMhTrkSZqlAPCJzjEbBTyP1cLVkMJWWSB7rQrimq%2F0arQ5A0&Action=GetWebJs, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Refused to create native OpenGL context because of blacklist entry: 
+* Exhausted GL driver options.
+JavaScript warning: https://ty.captcha.qq.com/code?siteKey=9WY11WYltbEgYnEIaMhTrkSZqlAPCJzjEbBTyP1cLVkMJWWSB7rQrimq%2F0arQ5A0&Action=GetWebJs, line 1: Error: WebGL warning: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ty.captcha.qq.com/code?siteKey=9WY11WYltbEgYnEIaMhTrkSZqlAPCJzjEbBTyP1cLVkMJWWSB7rQrimq%2F0arQ5A0&Action=GetWebJs, line 1: Error: WebGL warning: Refused to create native OpenGL context because of blacklist entry: 
+JavaScript warning: https://ty.captcha.qq.com/code?siteKey=9WY11WYltbEgYnEIaMhTrkSZqlAPCJzjEbBTyP1cLVkMJWWSB7rQrimq%2F0arQ5A0&Action=GetWebJs, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Refused to create native OpenGL context because of blacklist entry: 
+* Exhausted GL driver options.
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Failed to open connection to "session" message bus: /usr/bin/dbus-launch terminated abnormally without any error message
+1547705036922	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.rKsUoY4PvOh9"
+Failed to open connection to "session" message bus: /usr/bin/dbus-launch terminated abnormally without any error message
+Running without a11y support!
+1547705037126	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1547705037232	addons.xpi-utils	WARN	addMetadata: Add-on aushelper@mozilla.org is invalid: [Exception... "Component returned failure code: 0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST) [nsIFile.isFile]"  nsresult: "0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST)"  location: "JS frame :: resource://gre/modules/addons/XPIInstall.jsm :: loadManifestFromFile :: line 925"  data: no] Stack trace: loadManifestFromFile()@resource://gre/modules/addons/XPIInstall.jsm:925
+syncLoadManifestFromFile()@resource://gre/modules/addons/XPIProvider.jsm:940
+addMetadata()@resource://gre/modules/addons/XPIProvider.jsm -> resource://gre/modules/addons/XPIProviderUtils.js:1167
+processFileChanges()@resource://gre/modules/addons/XPIProvider.jsm -> resource://gre/modules/addons/XPIProviderUtils.js:1523
+checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3304
+startup()@resource://gre/modules/addons/XPIProvider.jsm:2196
+callProvider()@resource://gre/modules/AddonManager.jsm:253
+_startProvider()@resource://gre/modules/AddonManager.jsm:728
+startup()@resource://gre/modules/AddonManager.jsm:892
+startup()@resource://gre/modules/AddonManager.jsm:2976
+observe()@jar:file:///usr/lib64/firefox/omni.ja!/components/addonManager.js:63
+1547705037233	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1547705038236	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1547705038436	Marionette	INFO	Listening on port 35622
+1547705038530	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib64/firefox/firefox:26499): Gtk-WARNING **: 14:03:59.442: Could not load a pixbuf from /org/gtk/libgtk/theme/Adwaita/assets/check-symbolic.svg.
+This may indicate that pixbuf loaders or the mime database could not be found.
+JavaScript warning: https://ty.captcha.qq.com/code?siteKey=9WY11WYltbEgYnEIaMhTrkSZqlAPCJzjEbBTyP1cLVkMJWWSB7rQrimq%2F0arQ5A0&Action=GetWebJs, line 1: Error: WebGL warning: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ty.captcha.qq.com/code?siteKey=9WY11WYltbEgYnEIaMhTrkSZqlAPCJzjEbBTyP1cLVkMJWWSB7rQrimq%2F0arQ5A0&Action=GetWebJs, line 1: Error: WebGL warning: Refused to create native OpenGL context because of blacklist entry: 
+JavaScript warning: https://ty.captcha.qq.com/code?siteKey=9WY11WYltbEgYnEIaMhTrkSZqlAPCJzjEbBTyP1cLVkMJWWSB7rQrimq%2F0arQ5A0&Action=GetWebJs, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Refused to create native OpenGL context because of blacklist entry: 
+* Exhausted GL driver options.
+JavaScript warning: https://ty.captcha.qq.com/code?siteKey=9WY11WYltbEgYnEIaMhTrkSZqlAPCJzjEbBTyP1cLVkMJWWSB7rQrimq%2F0arQ5A0&Action=GetWebJs, line 1: Error: WebGL warning: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ty.captcha.qq.com/code?siteKey=9WY11WYltbEgYnEIaMhTrkSZqlAPCJzjEbBTyP1cLVkMJWWSB7rQrimq%2F0arQ5A0&Action=GetWebJs, line 1: Error: WebGL warning: Refused to create native OpenGL context because of blacklist entry: 
+JavaScript warning: https://ty.captcha.qq.com/code?siteKey=9WY11WYltbEgYnEIaMhTrkSZqlAPCJzjEbBTyP1cLVkMJWWSB7rQrimq%2F0arQ5A0&Action=GetWebJs, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Refused to create native OpenGL context because of blacklist entry: 
+* Exhausted GL driver options.
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Failed to open connection to "session" message bus: /usr/bin/dbus-launch terminated abnormally without any error message
+1547705233269	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.LoBFbXBOd83z"
+Failed to open connection to "session" message bus: /usr/bin/dbus-launch terminated abnormally without any error message
+Running without a11y support!
+1547705233497	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1547705233600	addons.xpi-utils	WARN	addMetadata: Add-on aushelper@mozilla.org is invalid: [Exception... "Component returned failure code: 0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST) [nsIFile.isFile]"  nsresult: "0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST)"  location: "JS frame :: resource://gre/modules/addons/XPIInstall.jsm :: loadManifestFromFile :: line 925"  data: no] Stack trace: loadManifestFromFile()@resource://gre/modules/addons/XPIInstall.jsm:925
+syncLoadManifestFromFile()@resource://gre/modules/addons/XPIProvider.jsm:940
+addMetadata()@resource://gre/modules/addons/XPIProvider.jsm -> resource://gre/modules/addons/XPIProviderUtils.js:1167
+processFileChanges()@resource://gre/modules/addons/XPIProvider.jsm -> resource://gre/modules/addons/XPIProviderUtils.js:1523
+checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3304
+startup()@resource://gre/modules/addons/XPIProvider.jsm:2196
+callProvider()@resource://gre/modules/AddonManager.jsm:253
+_startProvider()@resource://gre/modules/AddonManager.jsm:728
+startup()@resource://gre/modules/AddonManager.jsm:892
+startup()@resource://gre/modules/AddonManager.jsm:2976
+observe()@jar:file:///usr/lib64/firefox/omni.ja!/components/addonManager.js:63
+1547705233601	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1547705234590	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1547705234731	Marionette	INFO	Listening on port 43478
+1547705234778	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib64/firefox/firefox:27325): Gtk-WARNING **: 14:07:15.830: Could not load a pixbuf from /org/gtk/libgtk/theme/Adwaita/assets/check-symbolic.svg.
+This may indicate that pixbuf loaders or the mime database could not be found.
+JavaScript warning: https://ty.captcha.qq.com/code?siteKey=9WY11WYltbEgYnEIaMhTrkSZqlAPCJzjEbBTyP1cLVkMJWWSB7rQrimq%2F0arQ5A0&Action=GetWebJs, line 1: Error: WebGL warning: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ty.captcha.qq.com/code?siteKey=9WY11WYltbEgYnEIaMhTrkSZqlAPCJzjEbBTyP1cLVkMJWWSB7rQrimq%2F0arQ5A0&Action=GetWebJs, line 1: Error: WebGL warning: Refused to create native OpenGL context because of blacklist entry: 
+JavaScript warning: https://ty.captcha.qq.com/code?siteKey=9WY11WYltbEgYnEIaMhTrkSZqlAPCJzjEbBTyP1cLVkMJWWSB7rQrimq%2F0arQ5A0&Action=GetWebJs, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Refused to create native OpenGL context because of blacklist entry: 
+* Exhausted GL driver options.
+JavaScript warning: https://ty.captcha.qq.com/code?siteKey=9WY11WYltbEgYnEIaMhTrkSZqlAPCJzjEbBTyP1cLVkMJWWSB7rQrimq%2F0arQ5A0&Action=GetWebJs, line 1: Error: WebGL warning: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ty.captcha.qq.com/code?siteKey=9WY11WYltbEgYnEIaMhTrkSZqlAPCJzjEbBTyP1cLVkMJWWSB7rQrimq%2F0arQ5A0&Action=GetWebJs, line 1: Error: WebGL warning: Refused to create native OpenGL context because of blacklist entry: 
+JavaScript warning: https://ty.captcha.qq.com/code?siteKey=9WY11WYltbEgYnEIaMhTrkSZqlAPCJzjEbBTyP1cLVkMJWWSB7rQrimq%2F0arQ5A0&Action=GetWebJs, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Refused to create native OpenGL context because of blacklist entry: 
+* Exhausted GL driver options.
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Failed to open connection to "session" message bus: /usr/bin/dbus-launch terminated abnormally without any error message
+1547705411930	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.KVR5t4KdU4jA"
+Failed to open connection to "session" message bus: /usr/bin/dbus-launch terminated abnormally without any error message
+Running without a11y support!
+1547705412152	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1547705412246	addons.xpi-utils	WARN	addMetadata: Add-on aushelper@mozilla.org is invalid: [Exception... "Component returned failure code: 0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST) [nsIFile.isFile]"  nsresult: "0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST)"  location: "JS frame :: resource://gre/modules/addons/XPIInstall.jsm :: loadManifestFromFile :: line 925"  data: no] Stack trace: loadManifestFromFile()@resource://gre/modules/addons/XPIInstall.jsm:925
+syncLoadManifestFromFile()@resource://gre/modules/addons/XPIProvider.jsm:940
+addMetadata()@resource://gre/modules/addons/XPIProvider.jsm -> resource://gre/modules/addons/XPIProviderUtils.js:1167
+processFileChanges()@resource://gre/modules/addons/XPIProvider.jsm -> resource://gre/modules/addons/XPIProviderUtils.js:1523
+checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3304
+startup()@resource://gre/modules/addons/XPIProvider.jsm:2196
+callProvider()@resource://gre/modules/AddonManager.jsm:253
+_startProvider()@resource://gre/modules/AddonManager.jsm:728
+startup()@resource://gre/modules/AddonManager.jsm:892
+startup()@resource://gre/modules/AddonManager.jsm:2976
+observe()@jar:file:///usr/lib64/firefox/omni.ja!/components/addonManager.js:63
+1547705412247	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1547705413258	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1547705413394	Marionette	INFO	Listening on port 33056
+1547705413442	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib64/firefox/firefox:28125): Gtk-WARNING **: 14:10:14.429: Could not load a pixbuf from /org/gtk/libgtk/theme/Adwaita/assets/check-symbolic.svg.
+This may indicate that pixbuf loaders or the mime database could not be found.
+JavaScript warning: https://ty.captcha.qq.com/code?siteKey=9WY11WYltbEgYnEIaMhTrkSZqlAPCJzjEbBTyP1cLVkMJWWSB7rQrimq%2F0arQ5A0&Action=GetWebJs, line 1: Error: WebGL warning: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ty.captcha.qq.com/code?siteKey=9WY11WYltbEgYnEIaMhTrkSZqlAPCJzjEbBTyP1cLVkMJWWSB7rQrimq%2F0arQ5A0&Action=GetWebJs, line 1: Error: WebGL warning: Refused to create native OpenGL context because of blacklist entry: 
+JavaScript warning: https://ty.captcha.qq.com/code?siteKey=9WY11WYltbEgYnEIaMhTrkSZqlAPCJzjEbBTyP1cLVkMJWWSB7rQrimq%2F0arQ5A0&Action=GetWebJs, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Refused to create native OpenGL context because of blacklist entry: 
+* Exhausted GL driver options.
+JavaScript warning: https://ty.captcha.qq.com/code?siteKey=9WY11WYltbEgYnEIaMhTrkSZqlAPCJzjEbBTyP1cLVkMJWWSB7rQrimq%2F0arQ5A0&Action=GetWebJs, line 1: Error: WebGL warning: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ty.captcha.qq.com/code?siteKey=9WY11WYltbEgYnEIaMhTrkSZqlAPCJzjEbBTyP1cLVkMJWWSB7rQrimq%2F0arQ5A0&Action=GetWebJs, line 1: Error: WebGL warning: Refused to create native OpenGL context because of blacklist entry: 
+JavaScript warning: https://ty.captcha.qq.com/code?siteKey=9WY11WYltbEgYnEIaMhTrkSZqlAPCJzjEbBTyP1cLVkMJWWSB7rQrimq%2F0arQ5A0&Action=GetWebJs, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Refused to create native OpenGL context because of blacklist entry: 
+* Exhausted GL driver options.
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Failed to open connection to "session" message bus: /usr/bin/dbus-launch terminated abnormally without any error message
+1547717598355	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.fmmhf5FENd3N"
+Failed to open connection to "session" message bus: /usr/bin/dbus-launch terminated abnormally without any error message
+Running without a11y support!
+1547717598536	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1547717598639	addons.xpi-utils	WARN	addMetadata: Add-on aushelper@mozilla.org is invalid: [Exception... "Component returned failure code: 0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST) [nsIFile.isFile]"  nsresult: "0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST)"  location: "JS frame :: resource://gre/modules/addons/XPIInstall.jsm :: loadManifestFromFile :: line 925"  data: no] Stack trace: loadManifestFromFile()@resource://gre/modules/addons/XPIInstall.jsm:925
+syncLoadManifestFromFile()@resource://gre/modules/addons/XPIProvider.jsm:940
+addMetadata()@resource://gre/modules/addons/XPIProvider.jsm -> resource://gre/modules/addons/XPIProviderUtils.js:1167
+processFileChanges()@resource://gre/modules/addons/XPIProvider.jsm -> resource://gre/modules/addons/XPIProviderUtils.js:1523
+checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3304
+startup()@resource://gre/modules/addons/XPIProvider.jsm:2196
+callProvider()@resource://gre/modules/AddonManager.jsm:253
+_startProvider()@resource://gre/modules/AddonManager.jsm:728
+startup()@resource://gre/modules/AddonManager.jsm:892
+startup()@resource://gre/modules/AddonManager.jsm:2976
+observe()@jar:file:///usr/lib64/firefox/omni.ja!/components/addonManager.js:63
+1547717598640	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1547717599664	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1547717599808	Marionette	INFO	Listening on port 43165
+1547717599868	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Failed to open connection to "session" message bus: /usr/bin/dbus-launch terminated abnormally without any error message
+1547717793186	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.p3paZNtlD96c"
+Failed to open connection to "session" message bus: /usr/bin/dbus-launch terminated abnormally without any error message
+Running without a11y support!
+1547717793412	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1547717793511	addons.xpi-utils	WARN	addMetadata: Add-on aushelper@mozilla.org is invalid: [Exception... "Component returned failure code: 0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST) [nsIFile.isFile]"  nsresult: "0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST)"  location: "JS frame :: resource://gre/modules/addons/XPIInstall.jsm :: loadManifestFromFile :: line 925"  data: no] Stack trace: loadManifestFromFile()@resource://gre/modules/addons/XPIInstall.jsm:925
+syncLoadManifestFromFile()@resource://gre/modules/addons/XPIProvider.jsm:940
+addMetadata()@resource://gre/modules/addons/XPIProvider.jsm -> resource://gre/modules/addons/XPIProviderUtils.js:1167
+processFileChanges()@resource://gre/modules/addons/XPIProvider.jsm -> resource://gre/modules/addons/XPIProviderUtils.js:1523
+checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3304
+startup()@resource://gre/modules/addons/XPIProvider.jsm:2196
+callProvider()@resource://gre/modules/AddonManager.jsm:253
+_startProvider()@resource://gre/modules/AddonManager.jsm:728
+startup()@resource://gre/modules/AddonManager.jsm:892
+startup()@resource://gre/modules/AddonManager.jsm:2976
+observe()@jar:file:///usr/lib64/firefox/omni.ja!/components/addonManager.js:63
+1547717793512	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1547717794532	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1547717794698	Marionette	INFO	Listening on port 46428
+1547717794799	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Failed to open connection to "session" message bus: /usr/bin/dbus-launch terminated abnormally without any error message
+1547717941086	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.JGU06ilZuimt"
+Failed to open connection to "session" message bus: /usr/bin/dbus-launch terminated abnormally without any error message
+Running without a11y support!
+1547717941308	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1547717941410	addons.xpi-utils	WARN	addMetadata: Add-on aushelper@mozilla.org is invalid: [Exception... "Component returned failure code: 0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST) [nsIFile.isFile]"  nsresult: "0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST)"  location: "JS frame :: resource://gre/modules/addons/XPIInstall.jsm :: loadManifestFromFile :: line 925"  data: no] Stack trace: loadManifestFromFile()@resource://gre/modules/addons/XPIInstall.jsm:925
+syncLoadManifestFromFile()@resource://gre/modules/addons/XPIProvider.jsm:940
+addMetadata()@resource://gre/modules/addons/XPIProvider.jsm -> resource://gre/modules/addons/XPIProviderUtils.js:1167
+processFileChanges()@resource://gre/modules/addons/XPIProvider.jsm -> resource://gre/modules/addons/XPIProviderUtils.js:1523
+checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3304
+startup()@resource://gre/modules/addons/XPIProvider.jsm:2196
+callProvider()@resource://gre/modules/AddonManager.jsm:253
+_startProvider()@resource://gre/modules/AddonManager.jsm:728
+startup()@resource://gre/modules/AddonManager.jsm:892
+startup()@resource://gre/modules/AddonManager.jsm:2976
+observe()@jar:file:///usr/lib64/firefox/omni.ja!/components/addonManager.js:63
+1547717941410	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1547717942452	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1547717942586	Marionette	INFO	Listening on port 34998
+1547717942598	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Failed to open connection to "session" message bus: /usr/bin/dbus-launch terminated abnormally without any error message
+1547718171868	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.NS6hwq6CqDWT"
+Failed to open connection to "session" message bus: /usr/bin/dbus-launch terminated abnormally without any error message
+Running without a11y support!
+1547718172107	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1547718172208	addons.xpi-utils	WARN	addMetadata: Add-on aushelper@mozilla.org is invalid: [Exception... "Component returned failure code: 0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST) [nsIFile.isFile]"  nsresult: "0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST)"  location: "JS frame :: resource://gre/modules/addons/XPIInstall.jsm :: loadManifestFromFile :: line 925"  data: no] Stack trace: loadManifestFromFile()@resource://gre/modules/addons/XPIInstall.jsm:925
+syncLoadManifestFromFile()@resource://gre/modules/addons/XPIProvider.jsm:940
+addMetadata()@resource://gre/modules/addons/XPIProvider.jsm -> resource://gre/modules/addons/XPIProviderUtils.js:1167
+processFileChanges()@resource://gre/modules/addons/XPIProvider.jsm -> resource://gre/modules/addons/XPIProviderUtils.js:1523
+checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3304
+startup()@resource://gre/modules/addons/XPIProvider.jsm:2196
+callProvider()@resource://gre/modules/AddonManager.jsm:253
+_startProvider()@resource://gre/modules/AddonManager.jsm:728
+startup()@resource://gre/modules/AddonManager.jsm:892
+startup()@resource://gre/modules/AddonManager.jsm:2976
+observe()@jar:file:///usr/lib64/firefox/omni.ja!/components/addonManager.js:63
+1547718172209	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1547718173303	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1547718173445	Marionette	INFO	Listening on port 40338
+1547718173475	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Failed to open connection to "session" message bus: /usr/bin/dbus-launch terminated abnormally without any error message
+1547719099203	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.dr9PaeGsWb0Q"
+Failed to open connection to "session" message bus: /usr/bin/dbus-launch terminated abnormally without any error message
+Running without a11y support!
+1547719099431	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1547719099532	addons.xpi-utils	WARN	addMetadata: Add-on aushelper@mozilla.org is invalid: [Exception... "Component returned failure code: 0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST) [nsIFile.isFile]"  nsresult: "0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST)"  location: "JS frame :: resource://gre/modules/addons/XPIInstall.jsm :: loadManifestFromFile :: line 925"  data: no] Stack trace: loadManifestFromFile()@resource://gre/modules/addons/XPIInstall.jsm:925
+syncLoadManifestFromFile()@resource://gre/modules/addons/XPIProvider.jsm:940
+addMetadata()@resource://gre/modules/addons/XPIProvider.jsm -> resource://gre/modules/addons/XPIProviderUtils.js:1167
+processFileChanges()@resource://gre/modules/addons/XPIProvider.jsm -> resource://gre/modules/addons/XPIProviderUtils.js:1523
+checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3304
+startup()@resource://gre/modules/addons/XPIProvider.jsm:2196
+callProvider()@resource://gre/modules/AddonManager.jsm:253
+_startProvider()@resource://gre/modules/AddonManager.jsm:728
+startup()@resource://gre/modules/AddonManager.jsm:892
+startup()@resource://gre/modules/AddonManager.jsm:2976
+observe()@jar:file:///usr/lib64/firefox/omni.ja!/components/addonManager.js:63
+1547719099532	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1547719100602	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1547719100784	Marionette	INFO	Listening on port 39867
+1547719100829	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Failed to open connection to "session" message bus: /usr/bin/dbus-launch terminated abnormally without any error message
+1547719264358	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.wh7PaRqWKIpS"
+Failed to open connection to "session" message bus: /usr/bin/dbus-launch terminated abnormally without any error message
+Running without a11y support!
+Error: cannot open display: :1009
+Failed to open connection to "session" message bus: /usr/bin/dbus-launch terminated abnormally without any error message
+1547719308623	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.rbPlsHxz1GKd"
+Failed to open connection to "session" message bus: /usr/bin/dbus-launch terminated abnormally without any error message
+Running without a11y support!
+Error: cannot open display: :1013
+Failed to open connection to "session" message bus: /usr/bin/dbus-launch terminated abnormally without any error message
+1547719363669	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.lmacnx6AwFJp"
+Failed to open connection to "session" message bus: /usr/bin/dbus-launch terminated abnormally without any error message
+Running without a11y support!
+1547719363855	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1547719363958	addons.xpi-utils	WARN	addMetadata: Add-on aushelper@mozilla.org is invalid: [Exception... "Component returned failure code: 0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST) [nsIFile.isFile]"  nsresult: "0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST)"  location: "JS frame :: resource://gre/modules/addons/XPIInstall.jsm :: loadManifestFromFile :: line 925"  data: no] Stack trace: loadManifestFromFile()@resource://gre/modules/addons/XPIInstall.jsm:925
+syncLoadManifestFromFile()@resource://gre/modules/addons/XPIProvider.jsm:940
+addMetadata()@resource://gre/modules/addons/XPIProvider.jsm -> resource://gre/modules/addons/XPIProviderUtils.js:1167
+processFileChanges()@resource://gre/modules/addons/XPIProvider.jsm -> resource://gre/modules/addons/XPIProviderUtils.js:1523
+checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3304
+startup()@resource://gre/modules/addons/XPIProvider.jsm:2196
+callProvider()@resource://gre/modules/AddonManager.jsm:253
+_startProvider()@resource://gre/modules/AddonManager.jsm:728
+startup()@resource://gre/modules/AddonManager.jsm:892
+startup()@resource://gre/modules/AddonManager.jsm:2976
+observe()@jar:file:///usr/lib64/firefox/omni.ja!/components/addonManager.js:63
+1547719363959	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1547719364995	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1547719365200	Marionette	INFO	Listening on port 39379
+1547719365276	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Failed to open connection to "session" message bus: /usr/bin/dbus-launch terminated abnormally without any error message
+1548057984809	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.tzdQdwhwpajr"
+Failed to open connection to "session" message bus: /usr/bin/dbus-launch terminated abnormally without any error message
+Running without a11y support!
+1548057985033	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1548057985128	addons.xpi-utils	WARN	addMetadata: Add-on aushelper@mozilla.org is invalid: [Exception... "Component returned failure code: 0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST) [nsIFile.isFile]"  nsresult: "0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST)"  location: "JS frame :: resource://gre/modules/addons/XPIInstall.jsm :: loadManifestFromFile :: line 925"  data: no] Stack trace: loadManifestFromFile()@resource://gre/modules/addons/XPIInstall.jsm:925
+syncLoadManifestFromFile()@resource://gre/modules/addons/XPIProvider.jsm:940
+addMetadata()@resource://gre/modules/addons/XPIProvider.jsm -> resource://gre/modules/addons/XPIProviderUtils.js:1167
+processFileChanges()@resource://gre/modules/addons/XPIProvider.jsm -> resource://gre/modules/addons/XPIProviderUtils.js:1523
+checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3304
+startup()@resource://gre/modules/addons/XPIProvider.jsm:2196
+callProvider()@resource://gre/modules/AddonManager.jsm:253
+_startProvider()@resource://gre/modules/AddonManager.jsm:728
+startup()@resource://gre/modules/AddonManager.jsm:892
+startup()@resource://gre/modules/AddonManager.jsm:2976
+observe()@jar:file:///usr/lib64/firefox/omni.ja!/components/addonManager.js:63
+1548057985129	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1548057986099	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1548057986281	Marionette	INFO	Listening on port 42968
+1548057986324	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib64/firefox/firefox:9524): Gtk-WARNING **: 16:06:27.305: Could not load a pixbuf from /org/gtk/libgtk/theme/Adwaita/assets/check-symbolic.svg.
+This may indicate that pixbuf loaders or the mime database could not be found.
+JavaScript warning: https://ty.captcha.qq.com/code?siteKey=9WY11WYltbEgYnEIaMhTrkSZqlAPCJzjEbBTyP1cLVkMJWWSB7rQrimq%2F0arQ5A0&Action=GetWebJs, line 1: Error: WebGL warning: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ty.captcha.qq.com/code?siteKey=9WY11WYltbEgYnEIaMhTrkSZqlAPCJzjEbBTyP1cLVkMJWWSB7rQrimq%2F0arQ5A0&Action=GetWebJs, line 1: Error: WebGL warning: Refused to create native OpenGL context because of blacklist entry: 
+JavaScript warning: https://ty.captcha.qq.com/code?siteKey=9WY11WYltbEgYnEIaMhTrkSZqlAPCJzjEbBTyP1cLVkMJWWSB7rQrimq%2F0arQ5A0&Action=GetWebJs, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Refused to create native OpenGL context because of blacklist entry: 
+* Exhausted GL driver options.
+JavaScript warning: https://ty.captcha.qq.com/code?siteKey=9WY11WYltbEgYnEIaMhTrkSZqlAPCJzjEbBTyP1cLVkMJWWSB7rQrimq%2F0arQ5A0&Action=GetWebJs, line 1: Error: WebGL warning: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ty.captcha.qq.com/code?siteKey=9WY11WYltbEgYnEIaMhTrkSZqlAPCJzjEbBTyP1cLVkMJWWSB7rQrimq%2F0arQ5A0&Action=GetWebJs, line 1: Error: WebGL warning: Refused to create native OpenGL context because of blacklist entry: 
+JavaScript warning: https://ty.captcha.qq.com/code?siteKey=9WY11WYltbEgYnEIaMhTrkSZqlAPCJzjEbBTyP1cLVkMJWWSB7rQrimq%2F0arQ5A0&Action=GetWebJs, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Refused to create native OpenGL context because of blacklist entry: 
+* Exhausted GL driver options.
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
