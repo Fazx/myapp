@@ -1,0 +1,7 @@
+2018/12/13 14:05:37 - loggers - INFO - 3 - test - nihao
+2018/12/13 14:12:19 - loggers - INFO - 72 - zhejianglogin - {'resultCode': '000000', 'resultMsg': '登陆成功', 'resultObj': 'https://etax.zjtax.gov.cn/zjgfdzswj/main/home/wdxx/index.html?ticket=ST-586646-UgjiKKNcXg3Gxh2U5BuZ-com.hz.zkxx.ydzhz'}
+2018-12-13 14:48:33,524 - loggers - INFO - {'resultCode': '000000', 'resultMsg': '登陆成功', 'resultObj': 'https://etax.zjtax.gov.cn/zjgfdzswj/main/home/wdxx/index.html?ticket=ST-622951-Q0muZG547zTiIEGSeTIM-com.hz.zkxx.ydzhz'}
+2018-12-13 14:50:42,168 - loggers - INFO - This is a log info
+2018-12-13 14:50:42,170 - loggers - WARNING - Warning exists
+2018-12-13 14:50:42,171 - loggers - INFO - Finish
+2018-12-13 14:50:42,757 - loggers - INFO - {'resultCode': '000000', 'resultMsg': '登陆成功', 'resultObj': 'https://etax.zjtax.gov.cn/zjgfdzswj/main/home/wdxx/index.html?ticket=ST-626050-m7NHkAb7mK2VWwwaLyES-com.hz.zkxx.ydzhz'}
